@@ -1,0 +1,16 @@
+[
+{
+  "modid": "CCT",
+  "name": "Custom Creative Tabs",
+  "description": "Lets you create custom creative tabs",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Sarrabiscos"],
+  "credits": "Sarrabiscos",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
